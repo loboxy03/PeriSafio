@@ -1,5 +1,5 @@
 {
-  "content_version": "16",
+  "content_version": "17",
   "files": [
     {
       "path": "mods/architectury-9.2.14-forge.jar",
@@ -233,6 +233,12 @@
       "size": 309219,
       "sha256": "c89667b5998f46619fa28fb870d6704b099f459e492e7083ff8b6509ff02752d",
       "url": "https://github.com/loboxy03/PeriSafio-Updates/releases/download/v1.0.1/Nutria_DEDsafio2_v1.2.zip"
+    },
+    {
+      "path": "resourcepacks/1.20 - 26.3+ §cDedsafio 4 Vanilla §f- §eiTsSoS's Staff Team.zip",
+      "type": "resourcepack",
+      "size": 108263574,
+      "sha256": "bd18c1216bcf8848bf9dbe7c1f884b8e5d0f2ac453b848b0a54a9f1cbd529d1b"
     }
   ],
   "remove_missing": true
