@@ -1,43 +1,244 @@
 {
-  "content_version": "14",
+  "content_version": "15",
   "files": [
-    {"path":"mods/architectury-9.2.14-forge.jar","type":"mod","size":580602,"sha256":"218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af"},
-    {"path":"mods/cloth-config-11.1.136-forge.jar","type":"mod","size":1181413,"sha256":"1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2"},
-    {"path":"mods/cpm-svc-compat-1.3.2.jar","type":"mod","size":27257,"sha256":"6dbd72707eb859ade2b9925c3a4c80938838a83d883bc77bee8a1d2df3f40cc2"},
-    {"path":"mods/CustomPlayerModels-1.20-0.6.27a.jar","type":"mod","size":2805930,"sha256":"f4964fb5b008eea1401853c6ba19a623b5fd6f10e3e14c77d686d999a0bb7c42"},
-    {"path":"mods/customskyboxes-forge-mc1.20.1-1.0.3.1.jar","type":"mod","size":156587,"sha256":"b3c3c6aea3532858544e2569b05d920e684c01c2b044651273b7696e0e7e0be0"},
-    {"path":"mods/dedsafio3-0.0.9-forge-1.20.1 (1) (1).jar","type":"mod","size":7366550,"sha256":"f9d2742b5c3f07c499725584039f87e3daacf09d1f4aaafae29fb70a124040e6"},
-    {"path":"mods/desafios-1.3.1.jar","type":"mod","size":627879,"sha256":"df73a7739b44484178223f9b74ee6433399775007a31234e9102e6a3c87409ca"},
-    {"path":"mods/eclipse-mod-1_2_0.jar","type":"mod","size":28229,"sha256":"fd67782045dde93aa3da894fbc876e13d36c6221ff175bf0908adb52bc3d1bad"},
-    {"path":"mods/embeddium-0.3.31+mc1.20.1.jar","type":"mod","size":1320675,"sha256":"eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb"},
-    {"path":"mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar","type":"mod","size":680255,"sha256":"ffaac96e37e6fa950080e2eb4aa361aa8b7bd6c4370862f39893ac2d266d7c14"},
-    {"path":"mods/fancy-entity-renderer-forge-1.20.1-0.4.6.jar","type":"mod","size":422043,"sha256":"32b499b24d9bce56023179774ede3077266a581fb88206762b9a88d16b652af7"},
-    {"path":"mods/fancymenu_forge_3.9.14_MC_1.20.1.jar","type":"mod","size":26191988,"sha256":"2d14bc9b0cb32e5e3f2f9661add8a78762f2b29df3fbb6db7412675786e76f16"},
-    {"path":"mods/framework-forge-1.20.1-0.7.15.jar","type":"mod","size":309560,"sha256":"0c29b9bab2ca7209a6cc8d80b2cd06daa4be2da81b636f7292cebebfaaea6c08"},
-    {"path":"mods/geckolib-forge-1.20.1-4.8.4.jar","type":"mod","size":1038209,"sha256":"4518779a31b6c2abb92c98b5ad17ef3d60177df68626bfc86c44de2764913c2b"},
-    {"path":"mods/immersive_paintings-0.6.13+1.20.1-forge.jar","type":"mod","size":4856103,"sha256":"069d5dffa4060d965899e607fad725c4d80a8086cef64f1d7563259b0a070633"},
-    {"path":"mods/JustEnoughGuns-0.14.5-1.20.1.jar","type":"mod","size":10315504,"sha256":"eee06ee8d93756235f6a888d7a0b8e176b76cd7e209a154e27899359138f9908"},
-    {"path":"mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar","type":"mod","size":625185,"sha256":"e78686b92c3761ec26eb9d3c53efdd3d6ca77981cbd3723995e1163b7103ae0b"},
-    {"path":"mods/M'TEG-1.1.2-1.20.1.jar","type":"mod","size":2010086,"sha256":"b3af157b829fb79fd33f4228f7eb063ca78c2f6a0c269e98bb581bb42a975a67"},
-    {"path":"mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar","type":"mod","size":37178,"sha256":"933e2a7e79c4594f965f7f7d00b1f28a98ec2a180ad8f9f90310a266fe5cf5d8"},
-    {"path":"mods/MomentoReviilClient-1.0.0.jar","type":"mod","size":117863,"sha256":"98e1ad5eae3dbadde79feeaae77cedcfc742be5c99dda1c4ad37900feee16b0b"},
-    {"path":"mods/ObsidianUI-forge-0.2.3+mc1.20.1.jar","type":"mod","size":212286,"sha256":"1f181e93507dda03e34419d970c90162b6f793d85d5dfcd47c405935dc0889a9"},
-    {"path":"mods/Pehkui-3.8.2+1.20.1-forge.jar","type":"mod","size":671605,"sha256":"54210f454c166f65a1bcbbfe4ea52e6f73e07844a793c7132f1af4076a0f42fc"},
-    {"path":"mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar","type":"mod","size":181437,"sha256":"90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691"},
-    {"path":"mods/refurbished_furniture-forge-1.20.1-1.0.20.jar","type":"mod","size":6689588,"sha256":"480546202aa21fa07e6b1571f3e3263e5690e9804afb7c35984642bcf473bc6e"},
-    {"path":"mods/RyoamicLights-forge-0.2.3+mc1.20.1.jar","type":"mod","size":160055,"sha256":"07cdd1b8df563299a0964eb64a58fca631d8ebb021912490a6930211ac6eb3b3"},
-    {"path":"mods/supermartijn642configlib-1.1.8-forge-mc1.20.jar","type":"mod","size":206584,"sha256":"bea425ef7e9cd27a7fc0f4b89e00cbd0a1ee050f071ecaa9f28f7238f400f0a3"},
-    {"path":"mods/supermartijn642corelib-1.1.25a-forge-mc1.20.1.jar","type":"mod","size":559829,"sha256":"f2e0cf3f6af6076e799bbd509064ca45f865ee6048d8f30bdfce7a169f2ca61a"},
-    {"path":"mods/voicechat-forge-1.20.1-2.6.22.jar","type":"mod","size":4923439,"sha256":"f171e99fa99f007ef013af5306f6c490fe79a11be7e1b18940147d75ced045b9"},
-    {"path":"mods/wormhole-1.1.17-forge-mc1.20.1.jar","type":"mod","size":877766,"sha256":"94a1578e26dd2be793b08787b33f20e935546e09378e85637d679fec5b2db060"},
-    {"path":"mods/.gitkeep","type":"mod","size":0,"sha256":"e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"},
-    {"path":"resourcepacks/Eclipse_Total_CustomSkyboxes_1.20.1.zip","type":"resourcepack","size":58738,"sha256":"639b18e1d4b6a608dd736b59687a5c423629aab0f99dd0390f4067922fafe497"},
-    {"path":"resourcepacks/Revill_Pack.zip","type":"resourcepack","size":2434212,"sha256":"7fa178a3cc6890d3c38f3a2642b098f4580b39689f463c33914047c973c990cb"},
-    {"path":"resourcepacks/Revill_Sonidos_Minecraft_1.20.1_CORREGIDO_FINAL.zip","type":"resourcepack","size":1687815,"sha256":"fb10a510edb59f940a2a7fc1bbc15ed7ec3c4afca77b03c1f1e8d4a227463e72"},
-    {"path":"resourcepacks/.gitkeep","type":"resourcepack","size":0,"sha256":"e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"},
-    {"path":"resourcepacks/1.20 - 26.3+ §cDedsafio 4 Vanilla §f- §eiTsSoS's Staff Team.zip","type":"resourcepack","size":108263574,"sha256":"bd18c1216bcf8848bf9dbe7c1f884b8e5d0f2ac453b848b0a54a9f1cbd529d1b"},
-    {"path":"mods/morpher-1.0.9.jar","type":"mod","size":204213,"sha256":"7a032604811aeb9189d0ed4cf07781636637d893e18e7dd63d224683f5f10b46","url":"https://github.com/loboxy03/PeriSafio-Updates/releases/download/v1.0.1/morpher-1.0.9.jar"},
-    {"path":"resourcepacks/Nutria_DEDsafio2_v1.2.zip","type":"resourcepack","size":309219,"sha256":"c89667b5998f46619fa28fb870d6704b099f459e492e7083ff8b6509ff02752d","url":"https://github.com/loboxy03/PeriSafio-Updates/releases/download/v1.0.1/Nutria_DEDsafio2_v1.2.zip"}
+    {
+      "path": "mods/architectury-9.2.14-forge.jar",
+      "type": "mod",
+      "size": 580602,
+      "sha256": "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af"
+    },
+    {
+      "path": "mods/cloth-config-11.1.136-forge.jar",
+      "type": "mod",
+      "size": 1181413,
+      "sha256": "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2"
+    },
+    {
+      "path": "mods/cpm-svc-compat-1.3.2.jar",
+      "type": "mod",
+      "size": 27257,
+      "sha256": "6dbd72707eb859ade2b9925c3a4c80938838a83d883bc77bee8a1d2df3f40cc2"
+    },
+    {
+      "path": "mods/CustomPlayerModels-1.20-0.6.27a.jar",
+      "type": "mod",
+      "size": 2805930,
+      "sha256": "f4964fb5b008eea1401853c6ba19a623b5fd6f10e3e14c77d686d999a0bb7c42"
+    },
+    {
+      "path": "mods/customskyboxes-forge-mc1.20.1-1.0.3.1.jar",
+      "type": "mod",
+      "size": 156587,
+      "sha256": "b3c3c6aea3532858544e2569b05d920e684c01c2b044651273b7696e0e7e0be0"
+    },
+    {
+      "path": "mods/dedsafio3-0.0.9-forge-1.20.1 (1) (1).jar",
+      "type": "mod",
+      "size": 7366550,
+      "sha256": "f9d2742b5c3f07c499725584039f87e3daacf09d1f4aaafae29fb70a124040e6"
+    },
+    {
+      "path": "mods/desafios-1.3.1.jar",
+      "type": "mod",
+      "size": 627879,
+      "sha256": "df73a7739b44484178223f9b74ee6433399775007a31234e9102e6a3c87409ca"
+    },
+    {
+      "path": "mods/eclipse-mod-1_2_0.jar",
+      "type": "mod",
+      "size": 28229,
+      "sha256": "fd67782045dde93aa3da894fbc876e13d36c6221ff175bf0908adb52bc3d1bad"
+    },
+    {
+      "path": "mods/embeddium-0.3.31+mc1.20.1.jar",
+      "type": "mod",
+      "size": 1320675,
+      "sha256": "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb"
+    },
+    {
+      "path": "mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
+      "type": "mod",
+      "size": 680255,
+      "sha256": "ffaac96e37e6fa950080e2eb4aa361aa8b7bd6c4370862f39893ac2d266d7c14"
+    },
+    {
+      "path": "mods/fancy-entity-renderer-forge-1.20.1-0.4.6.jar",
+      "type": "mod",
+      "size": 422043,
+      "sha256": "32b499b24d9bce56023179774ede3077266a581fb88206762b9a88d16b652af7"
+    },
+    {
+      "path": "mods/fancymenu_forge_3.9.14_MC_1.20.1.jar",
+      "type": "mod",
+      "size": 26191988,
+      "sha256": "2d14bc9b0cb32e5e3f2f9661add8a78762f2b29df3fbb6db7412675786e76f16"
+    },
+    {
+      "path": "mods/framework-forge-1.20.1-0.7.15.jar",
+      "type": "mod",
+      "size": 309560,
+      "sha256": "0c29b9bab2ca7209a6cc8d80b2cd06daa4be2da81b636f7292cebebfaaea6c08"
+    },
+    {
+      "path": "mods/geckolib-forge-1.20.1-4.8.4.jar",
+      "type": "mod",
+      "size": 1038209,
+      "sha256": "4518779a31b6c2abb92c98b5ad17ef3d60177df68626bfc86c44de2764913c2b"
+    },
+    {
+      "path": "mods/immersive_paintings-0.6.13+1.20.1-forge.jar",
+      "type": "mod",
+      "size": 4856103,
+      "sha256": "069d5dffa4060d965899e607fad725c4d80a8086cef64f1d7563259b0a070633"
+    },
+    {
+      "path": "mods/JustEnoughGuns-0.14.5-1.20.1.jar",
+      "type": "mod",
+      "size": 10315504,
+      "sha256": "eee06ee8d93756235f6a888d7a0b8e176b76cd7e209a154e27899359138f9908"
+    },
+    {
+      "path": "mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+      "type": "mod",
+      "size": 625185,
+      "sha256": "e78686b92c3761ec26eb9d3c53efdd3d6ca77981cbd3723995e1163b7103ae0b"
+    },
+    {
+      "path": "mods/M'TEG-1.1.2-1.20.1.jar",
+      "type": "mod",
+      "size": 2010086,
+      "sha256": "b3af157b829fb79fd33f4228f7eb063ca78c2f6a0c269e98bb581bb42a975a67"
+    },
+    {
+      "path": "mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+      "type": "mod",
+      "size": 37178,
+      "sha256": "933e2a7e79c4594f965f7f7d00b1f28a98ec2a180ad8f9f90310a266fe5cf5d8"
+    },
+    {
+      "path": "mods/MomentoReviilClient-1.0.0.jar",
+      "type": "mod",
+      "size": 117863,
+      "sha256": "98e1ad5eae3dbadde79feeaae77cedcfc742be5c99dda1c4ad37900feee16b0b"
+    },
+    {
+      "path": "mods/ObsidianUI-forge-0.2.3+mc1.20.1.jar",
+      "type": "mod",
+      "size": 212286,
+      "sha256": "1f181e93507dda03e34419d970c90162b6f793d85d5dfcd47c405935dc0889a9"
+    },
+    {
+      "path": "mods/Pehkui-3.8.2+1.20.1-forge.jar",
+      "type": "mod",
+      "size": 671605,
+      "sha256": "54210f454c166f65a1bcbbfe4ea52e6f73e07844a793c7132f1af4076a0f42fc"
+    },
+    {
+      "path": "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "type": "mod",
+      "size": 181437,
+      "sha256": "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691"
+    },
+    {
+      "path": "mods/refurbished_furniture-forge-1.20.1-1.0.20.jar",
+      "type": "mod",
+      "size": 6689588,
+      "sha256": "480546202aa21fa07e6b1571f3e3263e5690e9804afb7c35984642bcf473bc6e"
+    },
+    {
+      "path": "mods/RyoamicLights-forge-0.2.3+mc1.20.1.jar",
+      "type": "mod",
+      "size": 160055,
+      "sha256": "07cdd1b8df563299a0964eb64a58fca631d8ebb021912490a6930211ac6eb3b3"
+    },
+    {
+      "path": "mods/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+      "type": "mod",
+      "size": 206584,
+      "sha256": "bea425ef7e9cd27a7fc0f4b89e00cbd0a1ee050f071ecaa9f28f7238f400f0a3"
+    },
+    {
+      "path": "mods/supermartijn642corelib-1.1.25a-forge-mc1.20.1.jar",
+      "type": "mod",
+      "size": 559829,
+      "sha256": "f2e0cf3f6af6076e799bbd509064ca45f865ee6048d8f30bdfce7a169f2ca61a"
+    },
+    {
+      "path": "mods/voicechat-forge-1.20.1-2.6.22.jar",
+      "type": "mod",
+      "size": 4923439,
+      "sha256": "f171e99fa99f007ef013af5306f6c490fe79a11be7e1b18940147d75ced045b9"
+    },
+    {
+      "path": "mods/wormhole-1.1.17-forge-mc1.20.1.jar",
+      "type": "mod",
+      "size": 877766,
+      "sha256": "94a1578e26dd2be793b08787b33f20e935546e09378e85637d679fec5b2db060"
+    },
+    {
+      "path": "mods/.gitkeep",
+      "type": "mod",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "resourcepacks/Eclipse_Total_CustomSkyboxes_1.20.1.zip",
+      "type": "resourcepack",
+      "size": 58738,
+      "sha256": "639b18e1d4b6a608dd736b59687a5c423629aab0f99dd0390f4067922fafe497"
+    },
+    {
+      "path": "resourcepacks/Revill_Pack.zip",
+      "type": "resourcepack",
+      "size": 2434212,
+      "sha256": "7fa178a3cc6890d3c38f3a2642b098f4580b39689f463c33914047c973c990cb"
+    },
+    {
+      "path": "resourcepacks/Revill_Sonidos_Minecraft_1.20.1_CORREGIDO_FINAL.zip",
+      "type": "resourcepack",
+      "size": 1687815,
+      "sha256": "fb10a510edb59f940a2a7fc1bbc15ed7ec3c4afca77b03c1f1e8d4a227463e72"
+    },
+    {
+      "path": "resourcepacks/.gitkeep",
+      "type": "resourcepack",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "resourcepacks/1.20 - 26.3+ §cDedsafio 4 Vanilla §f- §eiTsSoS's Staff Team.zip",
+      "type": "resourcepack",
+      "size": 108263574,
+      "sha256": "bd18c1216bcf8848bf9dbe7c1f884b8e5d0f2ac453b848b0a54a9f1cbd529d1b"
+    },
+    {
+      "path": "mods/morpher-1.0.9.jar",
+      "type": "mod",
+      "size": 204213,
+      "sha256": "7a032604811aeb9189d0ed4cf07781636637d893e18e7dd63d224683f5f10b46",
+      "url": "https://github.com/loboxy03/PeriSafio-Updates/releases/download/v1.0.1/morpher-1.0.9.jar"
+    },
+    {
+      "path": "resourcepacks/Nutria_DEDsafio2_v1.2.zip",
+      "type": "resourcepack",
+      "size": 309219,
+      "sha256": "c89667b5998f46619fa28fb870d6704b099f459e492e7083ff8b6509ff02752d",
+      "url": "https://github.com/loboxy03/PeriSafio-Updates/releases/download/v1.0.1/Nutria_DEDsafio2_v1.2.zip"
+    },
+    {
+      "path": "mods/PeriSafioDeathMod-1.0.1.jar",
+      "type": "mod",
+      "size": 29110,
+      "sha256": "48601d2b00f6ab778d79679dff94480415e6196e9a17d74f92cf8895cbe279bf",
+      "url": "https://github.com/loboxy03/PeriSafio-Updates/releases/download/v1.0.1/PeriSafioDeathMod-1.0.1.jar"
+    },
+    {
+      "path": "mods/candadomod-1.0.0.jar",
+      "type": "mod",
+      "size": 38264,
+      "sha256": "e23c6b77c6b8558c608251ab03c410c3dec2faf2c1da3e5904f570ea9057192a",
+      "url": "https://github.com/loboxy03/PeriSafio-Updates/releases/download/v1.0.1/candadomod-1.0.0.jar"
+    }
   ],
   "remove_missing": true
 }
