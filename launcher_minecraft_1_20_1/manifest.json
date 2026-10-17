@@ -1,5 +1,5 @@
 {
-  "content_version": "15",
+  "content_version": "16",
   "files": [
     {
       "path": "mods/architectury-9.2.14-forge.jar",
@@ -116,12 +116,6 @@
       "sha256": "933e2a7e79c4594f965f7f7d00b1f28a98ec2a180ad8f9f90310a266fe5cf5d8"
     },
     {
-      "path": "mods/MomentoReviilClient-1.0.0.jar",
-      "type": "mod",
-      "size": 117863,
-      "sha256": "98e1ad5eae3dbadde79feeaae77cedcfc742be5c99dda1c4ad37900feee16b0b"
-    },
-    {
       "path": "mods/ObsidianUI-forge-0.2.3+mc1.20.1.jar",
       "type": "mod",
       "size": 212286,
@@ -206,24 +200,11 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "path": "resourcepacks/1.20 - 26.3+ §cDedsafio 4 Vanilla §f- §eiTsSoS's Staff Team.zip",
-      "type": "resourcepack",
-      "size": 108263574,
-      "sha256": "bd18c1216bcf8848bf9dbe7c1f884b8e5d0f2ac453b848b0a54a9f1cbd529d1b"
-    },
-    {
-      "path": "mods/morpher-1.0.9.jar",
+      "path": "mods/MomentoReviilClient-1_4_0.jar",
       "type": "mod",
-      "size": 204213,
-      "sha256": "7a032604811aeb9189d0ed4cf07781636637d893e18e7dd63d224683f5f10b46",
-      "url": "https://github.com/loboxy03/PeriSafio-Updates/releases/download/v1.0.1/morpher-1.0.9.jar"
-    },
-    {
-      "path": "resourcepacks/Nutria_DEDsafio2_v1.2.zip",
-      "type": "resourcepack",
-      "size": 309219,
-      "sha256": "c89667b5998f46619fa28fb870d6704b099f459e492e7083ff8b6509ff02752d",
-      "url": "https://github.com/loboxy03/PeriSafio-Updates/releases/download/v1.0.1/Nutria_DEDsafio2_v1.2.zip"
+      "size": 118079,
+      "sha256": "1f127093c629e3ff92db89586bfc953bae53bd94b616d98a8676c6c85adddd08",
+      "url": "https://github.com/loboxy03/PeriSafio-Updates/releases/download/v1.0.1/MomentoReviilClient-1_4_0.jar"
     },
     {
       "path": "mods/PeriSafioDeathMod-1.0.1.jar",
@@ -238,6 +219,20 @@
       "size": 38264,
       "sha256": "e23c6b77c6b8558c608251ab03c410c3dec2faf2c1da3e5904f570ea9057192a",
       "url": "https://github.com/loboxy03/PeriSafio-Updates/releases/download/v1.0.1/candadomod-1.0.0.jar"
+    },
+    {
+      "path": "mods/morpher-1.0.9.jar",
+      "type": "mod",
+      "size": 204213,
+      "sha256": "7a032604811aeb9189d0ed4cf07781636637d893e18e7dd63d224683f5f10b46",
+      "url": "https://github.com/loboxy03/PeriSafio-Updates/releases/download/v1.0.1/morpher-1.0.9.jar"
+    },
+    {
+      "path": "resourcepacks/Nutria_DEDsafio2_v1.2.zip",
+      "type": "resourcepack",
+      "size": 309219,
+      "sha256": "c89667b5998f46619fa28fb870d6704b099f459e492e7083ff8b6509ff02752d",
+      "url": "https://github.com/loboxy03/PeriSafio-Updates/releases/download/v1.0.1/Nutria_DEDsafio2_v1.2.zip"
     }
   ],
   "remove_missing": true
