@@ -1,0 +1,16 @@
+{
+  "launcher_version": "1.0.3",
+  "minecraft_version": "1.20.1",
+  "forge_version": "47.4.10",
+  "java_runtime": "java-runtime-gamma",
+  "update_url": "https://loboxy03.github.io/PeriSafio-Updates",
+  "poll_seconds": 60,
+  "server": {
+    "name": "PeriSafio",
+    "address": "PeriSafio.exaroton.me",
+    "port": 19554
+  },
+  "ram_min_mb": 2048,
+  "ram_max_mb": 6144,
+  "last_username": ""
+}
